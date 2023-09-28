@@ -1,1 +1,3 @@
-# Guptaji-Store-Dashboard
+This is Interactive Dashboard project using Excel.
+
+  
